@@ -15,81 +15,88 @@ Repositório da aula 4 da Imersão Inteligência Artifical Alura com Google.
 
  Caso queira saber sobre Anemia Falciforme, uma patologia pertecente ao sistema Cardiovascular/Hematopoiético, ou sobre um siistema específico do corpo humano, basta colocar este nome na entrada de dados e receber um retorno estruturadao como o abaixo:
 
- Anemia Falciforme (Grave)
- (Sangue)
+ ----------------------------------------------------------
+ MorbusComes:
+ 
+ Anemia Falciforme (Gravidade: Grave)
+ Sistema: Hematológico 
  
  ETIOLOGIA:
- - Causa Geral: Doença genética hereditária causada por uma mutação no gene da hemoglobina.
+ - Causa Geral: Doença genética hereditária que afeta a hemoglobina, proteína responsável pelo transporte de oxigênio no sangue.
  - Causas Específicas: 
-     - Mutação genética que altera a estrutura da hemoglobina, resultando na formação de células vermelhas do sangue em formato de foice.
+   - Mutação no gene da beta-globina, levando à produção de hemoglobina S (HbS) anormal.
+   - HbS polimeriza-se em condições de baixa oxigenação, deformando as hemácias em forma de foice.
  - Fatores de Risco: 
-     - Histórico familiar de anemia falciforme
-     - Ancestralidade africana, mediterrânea, indiana ou do Oriente Médio
+    - Histórico familiar da doença.
+    - Ancestralidade africana, mediterrânea, indiana ou do Oriente Médio.
  
  SINAIS:
- - Icterícia (coloração amarelada da pele e olhos)
- - Palidez
- - Atraso no crescimento
- - Feridas nas pernas
+  - Icterícia (pele e olhos amarelados).
+  - Palidez.
+  - Atraso no crescimento e desenvolvimento.
+  - Úlceras nas pernas.
+  - Dedos das mãos e dos pés inchados.
  
  SINTOMAS:
- - Fadiga
- - Falta de ar
- - Dor
- - Inchaço nas mãos e pés
- - Infecções frequentes
+  - Fadiga e fraqueza.
+  - Dor, especialmente nos ossos, tórax e abdômen (crises vaso-oclusivas).
+  - Falta de ar.
+  - Tonturas.
+  - Dor de cabeça.
  
  EXAMES DIAGNÓSTICOS:
- - Hemograma completo
- - Eletroforese de hemoglobina
- - Teste do pezinho
+  - Hemograma completo: Avalia os níveis de hemoglobina e a presença de hemácias falciformes.
+  - Eletroforese de hemoglobina: Identifica o tipo de hemoglobina presente no sangue.
+  - Teste do pezinho: Triagem neonatal para detecção precoce da doença.
  
  TRATAMENTO CLÍNICO:
  - Não farmacológicos: 
-     - Hidratação adequada
-     - Evitar temperaturas extremas
-     - Evitar altitudes elevadas
-     - Vacinação
+   - Hidratação adequada.
+   - Evitar situações que desencadeiam crises, como estresse, frio extremo e desidratação.
+   - Vacinação para prevenir infecções.
  - Farmacológicos: 
-     - Ácido fólico
-     - Hidroxiureia
-     - Analgésicos
-     - Antibióticos
+   - Ácido fólico: Estimula a produção de glóbulos vermelhos.
+   - Hidroxiureia: Reduz a frequência das crises vaso-oclusivas.
+   - Analgésicos: Para controle da dor.
+   - Antibióticos: Para tratar infecções.
  
  TRATAMENTO CIRÚRGICO:
- - Transplante de medula óssea
+ - Transplante de medula óssea: Em casos graves, pode ser considerado.
  
  DIETA ORAL:
- - Dieta rica em frutas, vegetais e grãos integrais
- - Suplementação de ácido fólico
+ - Dieta rica em frutas, vegetais e grãos integrais.
+ - Suplementação de ácido fólico.
+ - Aumento da ingestão de líquidos.
  
  DIETA ENTERAL:
- - Não se aplica
+ - Não se aplica.
  
  DIETA PARENTERAL:
- - Não se aplica
+ - Não se aplica.
  
  PREVENÇÃO:
- - Aconselhamento genético para casais com risco de ter filhos com anemia falciforme
+ - Aconselhamento genético para casais com risco de transmitir a doença.
+ - Triagem neonatal para detecção precoce e tratamento.
  
  ASSISTÊNCIA DE ENFERMAGEM:
  - Cuidados Essenciais: 
-     - Monitorar sinais vitais
-     - Administrar medicamentos prescritos
-     - Fornecer cuidados com a pele
-     - Prevenir infecções
-     - Orientar sobre a doença e o tratamento
+    - Monitorar sinais vitais e níveis de dor.
+    - Administrar medicamentos prescritos.
+    - Fornecer hidratação adequada.
+    - Prevenir infecções.
+    - Educar o paciente e a família sobre a doença e seu manejo.
  - Suporte Emocional: 
-     - Oferecer apoio emocional ao paciente e à família
-     - Encaminhar para grupos de apoio
+   - Oferecer apoio e compreensão ao paciente e à família.
+   - Encaminhar para grupos de apoio ou aconselhamento psicológico, se necessário.
  - Promoção da Reabilitação: 
-     - Encorajar a atividade física regular
-     - Promover a independência
+    - Encorajar a atividade física regular, dentro dos limites do paciente.
+    - Promover a independência nas atividades de vida diária.
+    - Auxiliar o paciente a lidar com as limitações impostas pela doença.
  
  PRINCIPAIS TERMINOLOGIAS:
- - Hemoglobina S
- - Crise vaso-oclusiva
- - Sequestro esplênico
- - Síndrome torácica aguda 
+ - Hemoglobina S (HbS): Tipo de hemoglobina anormal presente na anemia falciforme.
+ - Crise vaso-oclusiva: Episódio de dor intensa causado pelo bloqueio dos vasos sanguíneos pelas hemácias falciformes.
+ - Sequestro esplênico: Complicação grave em que as hemácias falciformes ficam presas no baço, causando aumento do órgão e anemia grave.0
+ - Síndrome torácica aguda: Complicação pulmonar grave que pode ser fatal. 
  
  ----------------------------------------------------------
