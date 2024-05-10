@@ -10,7 +10,7 @@ Repositório da aula 4 da Imersão Inteligência Artifical Alura com Google.
  
  A ferramenta não faz distinção de linguagem informal, nem de idioma, e, caso a comunicação do usuário seja desrespeitosa, trabalha a reeducação, orientando conforme os preceitos éticos sociais e legais, no que tange a legislação vigente e de consonância internacional, principalmente no que tange a Organização Mundial da Saúde.
  
-## UTILIZAÇÂO
+## UTILIZAÇÃO
  A maior especialidade do chatbot é o estudo de Sistemas do Corpo Humano, tais como Hematopoiético, Cardiovascular, Nefrourinário, entre outros, e suas patologias.
 
  Caso queira saber sobre Anemia Falciforme, uma patologia pertecente ao sistema Cardiovascular/Hematopoiético, ou sobre um siistema específico do corpo humano, basta colocar este nome na entrada de dados e receber um retorno estruturadao como o abaixo:
