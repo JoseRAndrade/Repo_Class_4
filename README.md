@@ -100,3 +100,7 @@ Repositório da aula 4 da Imersão Inteligência Artifical Alura com Google.
  - Síndrome torácica aguda: Complicação pulmonar grave que pode ser fatal. 
  
  ----------------------------------------------------------
+
+## ETIMOLOGIA DA NOME DO CHATBOT
+
+ Em latim, "morbus" significa doença e "comes" significa companheiro ou amigo. Assim, "MorbusComes" pode ser interpretado como "Aquele que acompanha a doença", destacando o apoio e orientação oferecidos pelo chatbot nos estudos da saúde, com maior especialização em patologias.
