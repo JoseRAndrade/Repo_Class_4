@@ -1,7 +1,7 @@
 # Repo_Class_4
 Repositório da aula 4 da Imersão Inteligência Artifical Alura com Google.
 
-## Projeto IA - MorbusComesAI
+## PROJETO IA - MorbusComesAI
  O Projeto IA - MorbusComesAI, foi a construção de um chatbot usando a Inteligência Artificial Generativa Gemini, uma das mais avançadas IAs Generativas do mercado atual.
 
  O grande foco desse chatbot é o auxílio no estudos de Enfermagem, fornecendo aos discentes e entusiastas da área da saúde, uma ferramenta abrangente especializada no cuidado de pessoas, trabalhando a diversidade e discernindo eticamente para a construção de uma sociedade melhor instruída.
@@ -10,7 +10,7 @@ Repositório da aula 4 da Imersão Inteligência Artifical Alura com Google.
  
  A ferramenta não faz distinção de linguagem informal, nem de idioma, e, caso a comunicação do usuário seja desrespeitosa, trabalha a reeducação, orientando conforme os preceitos éticos sociais e legais, no que tange a legislação vigente e de consonância internacional, principalmente no que tange a Organização Mundial da Saúde.
  
-## Utilização
+## UTILIZAÇÂO
  A maior especialidade do chatbot é o estudo de Sistemas do Corpo Humano, tais como Hematopoiético, Cardiovascular, Nefrourinário, entre outros, e suas patologias.
 
  Caso queira saber sobre Anemia Falciforme, uma patologia pertecente ao sistema Cardiovascular/Hematopoiético, ou sobre um siistema específico do corpo humano, basta colocar este nome na entrada de dados e receber um retorno estruturadao como o abaixo:
@@ -101,6 +101,6 @@ Repositório da aula 4 da Imersão Inteligência Artifical Alura com Google.
  
  ----------------------------------------------------------
 
-## ETIMOLOGIA DA NOME DO CHATBOT
+## ETIMOLOGIA DO NOME DO CHATBOT
 
  Em latim, "morbus" significa doença e "comes" significa companheiro ou amigo. Assim, "MorbusComes" pode ser interpretado como "Aquele que acompanha a doença", destacando o apoio e orientação oferecidos pelo chatbot nos estudos da saúde, com maior especialização em patologias.
